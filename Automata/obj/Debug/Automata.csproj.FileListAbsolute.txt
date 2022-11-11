@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\Automata\Automata\bin\Debug\Automata.exe.config
+C:\Users\oscar\source\repos\Automata\Automata\bin\Debug\Automata.exe
+C:\Users\oscar\source\repos\Automata\Automata\bin\Debug\Automata.pdb
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.Form1.resources
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.Properties.Resources.resources
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.exe
+C:\Users\oscar\source\repos\Automata\Automata\obj\Debug\Automata.pdb
